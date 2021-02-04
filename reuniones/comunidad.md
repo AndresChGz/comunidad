@@ -9,6 +9,7 @@
 - Leonardo Murillo (@murillodigital)
 - Irina Calvo (@anairinac)
 - Mauricio Araya (@mabrizio)
+- Andrés Chacón (@andreschgz)
 
 ### Agenda
 
